@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-cdk-test"
+    }
+  },
+  "defaultProject": "angular-cdk-test",
+  "cli": {
+    "analytics": "8140aee0-af63-49a7-89cf-c61bd04ca356"
+  }
 }
